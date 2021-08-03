@@ -4,6 +4,3 @@
 [build]
   publish = "public"
   command = "npx pnpm i"
-
-[[plugins]]
-     package = "./plugins/pnpm-preinstaller"
